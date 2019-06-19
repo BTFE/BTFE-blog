@@ -6,4 +6,4 @@
 
 ## es6 系列
 
-[Promise练习题](https://github.com/BTFE/BTFE-blog/issues/1) by [杨勇](https://github.com/AngusYang9)
+[深入理解Promise执行顺序](https://github.com/BTFE/BTFE-blog/issues/1) by [杨勇](https://github.com/AngusYang9)
