@@ -7,3 +7,4 @@
 ## es6 系列
 
 [深入理解Promise执行顺序](https://github.com/BTFE/BTFE-blog/issues/1) by [杨勇](https://github.com/AngusYang9)
+[为什么使用for...of循环](https://github.com/BTFE/BTFE-blog/issues/3) by [杨勇](https://github.com/AngusYang9)
