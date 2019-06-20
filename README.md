@@ -8,7 +8,7 @@
 
 [立即执行函数](https://github.com/BTFE/BTFE-blog/issues/2) by [刘洋宁](https://github.com/Provenr)
 
-[作用域、闭包相关](https://github.com/BTFE/BTFE-blog/issues/4) by [刘洋宁](https://github.com/MadWeb)
+[作用域、闭包相关](https://github.com/BTFE/BTFE-blog/issues/4) by [马迪](https://github.com/MadWeb)
 
 ## es6 系列
 
