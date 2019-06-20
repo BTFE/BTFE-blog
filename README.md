@@ -8,6 +8,8 @@
 
 [立即执行函数](https://github.com/BTFE/BTFE-blog/issues/2) by [刘洋宁](https://github.com/Provenr)
 
+[作用域、闭包相关](https://github.com/BTFE/BTFE-blog/issues/4) by [刘洋宁](https://github.com/MadWeb)
+
 ## es6 系列
 
 [深入理解Promise执行顺序](https://github.com/BTFE/BTFE-blog/issues/1) by [杨勇](https://github.com/AngusYang9)
