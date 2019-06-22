@@ -10,6 +10,8 @@
 
 [作用域、闭包相关](https://github.com/BTFE/BTFE-blog/issues/4) by [马迪](https://github.com/MadWeb)
 
+[Object Keys 重命名](https://github.com/BTFE/BTFE-blog/issues/5) by [杨勇](https://github.com/AngusYang9)
+
 ## es6 系列
 
 [深入理解Promise执行顺序](https://github.com/BTFE/BTFE-blog/issues/1) by [杨勇](https://github.com/AngusYang9)
