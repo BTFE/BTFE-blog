@@ -20,6 +20,8 @@
 
 [为什么使用for...of循环](https://github.com/BTFE/BTFE-blog/issues/3) by [杨勇](https://github.com/AngusYang9)
 
+[Generator遍历完全二叉树](https://github.com/BTFE/BTFE-blog/issues/8) by [杨勇](https://github.com/AngusYang9)
+
 ## 面试
 
 [javascript实现一个带并发限制的异步调度器，保证同时最多运行2个任务](https://github.com/BTFE/BTFE-blog/issues/6) by [于志爽](https://github.com/yuzhishuang)
