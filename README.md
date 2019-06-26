@@ -35,4 +35,4 @@
 
 [2019年6月24日上午某公司面试总结](https://github.com/BTFE/BTFE-blog/issues/9) by [于志爽](https://github.com/yuzhishuang)
 
-[2019年6月24日下午58公司面试总结](https://github.com/BTFE/BTFE-blog/issues/13) by [于志爽](https://github.com/yuzhishuang)
+[2019年6月24日下午58公司面试总结-ES5继承](https://github.com/BTFE/BTFE-blog/issues/13) by [于志爽](https://github.com/yuzhishuang)
