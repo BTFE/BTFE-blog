@@ -34,3 +34,5 @@
 [javascript实现一个带并发限制的异步调度器，保证同时最多运行2个任务](https://github.com/BTFE/BTFE-blog/issues/6) by [于志爽](https://github.com/yuzhishuang)
 
 [2019年6月24日上午某公司面试总结](https://github.com/BTFE/BTFE-blog/issues/9) by [于志爽](https://github.com/yuzhishuang)
+
+[2019年6月24日下午58公司面试总结](https://github.com/BTFE/BTFE-blog/issues/13) by [于志爽](https://github.com/yuzhishuang)
