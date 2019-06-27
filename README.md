@@ -29,6 +29,9 @@
 ## 小程序
 [自定义复选框样式](https://github.com/BTFE/BTFE-blog/issues/10) by [刘洋宁](https://github.com/Provenr)
 
+## 工具
+[vscode插件整理](https://github.com/BTFE/BTFE-blog/issues/14) by [刘洋宁](https://github.com/Provenr)
+
 ## 面试
 
 [javascript实现一个带并发限制的异步调度器，保证同时最多运行2个任务](https://github.com/BTFE/BTFE-blog/issues/6) by [于志爽](https://github.com/yuzhishuang)
