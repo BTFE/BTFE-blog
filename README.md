@@ -34,6 +34,9 @@
 ## 工具
 [vscode插件整理](https://github.com/BTFE/BTFE-blog/issues/14) by [刘洋宁](https://github.com/Provenr)
 
+## Vue系列
+[Vue组件传值与通信](https://github.com/BTFE/BTFE-blog/issues/16) by [刘洋宁](https://github.com/Provenr)
+
 ## 面试
 
 [2019年6月24日上午某公司面试总结](https://github.com/BTFE/BTFE-blog/issues/9) by [于志爽](https://github.com/yuzhishuang)
