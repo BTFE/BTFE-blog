@@ -20,6 +20,8 @@
 
 [Prototypes in JavaScript](https://github.com/BTFE/BTFE-blog/issues/20) by [杨勇](https://github.com/AngusYang9)
 
+[杨勇的面试题积累](https://github.com/BTFE/BTFE-blog/issues/21) by [杨勇](https://github.com/AngusYang9)
+
 ## es6 系列
 
 [深入理解Promise执行顺序](https://github.com/BTFE/BTFE-blog/issues/1) by [杨勇](https://github.com/AngusYang9)
