@@ -20,8 +20,6 @@
 
 [Prototypes in JavaScript](https://github.com/BTFE/BTFE-blog/issues/20) by [杨勇](https://github.com/AngusYang9)
 
-[杨勇的面试题积累](https://github.com/BTFE/BTFE-blog/issues/21) by [杨勇](https://github.com/AngusYang9)
-
 ## es6 系列
 
 [深入理解Promise执行顺序](https://github.com/BTFE/BTFE-blog/issues/1) by [杨勇](https://github.com/AngusYang9)
@@ -50,3 +48,7 @@
 [2019年6月24日下午58公司面试总结-ES5继承](https://github.com/BTFE/BTFE-blog/issues/13) by [于志爽](https://github.com/yuzhishuang)
 
 [2019年6月26日下午好未来公司面试总结](https://github.com/BTFE/BTFE-blog/issues/18) by [于志爽](https://github.com/yuzhishuang)
+
+[面试题积累（JavaScript）](https://github.com/BTFE/BTFE-blog/issues/21) by [杨勇](https://github.com/AngusYang9)
+
+[面试题积累（原理）](https://github.com/BTFE/BTFE-blog/issues/23) by [杨勇](https://github.com/AngusYang9)
