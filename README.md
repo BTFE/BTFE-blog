@@ -33,6 +33,8 @@
 ## Nodejs
 [npm 模块调试技巧 - npm link](https://github.com/BTFE/BTFE-blog/issues/25) by [杨勇](https://github.com/AngusYang9)
 
+[Yalc](https://github.com/BTFE/BTFE-blog/issues/26) by [杨勇](https://github.com/AngusYang9)
+
 ## 小程序
 [自定义复选框样式](https://github.com/BTFE/BTFE-blog/issues/10) by [刘洋宁](https://github.com/Provenr)
 
